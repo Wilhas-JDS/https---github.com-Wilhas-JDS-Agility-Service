@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "327257905545",
+    "firebase_url": "https://agility-service-c784d-default-rtdb.firebaseio.com",
+    "project_id": "agility-service-c784d",
+    "storage_bucket": "agility-service-c784d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327257905545:android:f10887b4e89e5119be2958",
+        "android_client_info": {
+          "package_name": "com.example.agilityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_esOxxd0eq9t4Bp8FXcPQccK9baoZbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
